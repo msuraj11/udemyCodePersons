@@ -1,2 +1,0 @@
-# udemyCodePersons
-Created with CodeSandbox
