@@ -1,0 +1,42 @@
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.Cockpit {
+  background-color: green;
+  color: white;
+  font: inherit;
+  border: 1px solid blue;
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* .Cockpit:hover {
+  background-color: pink;
+  color: black;
+} */
+
+.UnCockpit {
+  background-color: yellow;
+  color: black;
+  font: inherit;
+  border: 1px solid blue;
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* .UnCockpit:hover {
+  background-color: grey;
+  color: white;
+} */
+
+.resetIcon {
+  cursor: pointer;
+  height: 42px;
+  margin-left: 1em;
+  position: absolute;
+}
